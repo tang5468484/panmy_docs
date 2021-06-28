@@ -44,7 +44,6 @@ CREATE TABLE `board`  (
 -- Records of board
 -- ----------------------------
 INSERT INTO `board` VALUES (1, '{\"title\": \"消息\", \"content\": \"欢迎您使用本网盘。\"}', '2021-05-27 13:25:04', 0);
-INSERT INTO `board` VALUES (5, '{\"title\": \"提示\", \"content\": \"本网站域名为www.panmy.xyz\"}', '2021-04-07 22:46:48', 1);
 INSERT INTO `board` VALUES (6, '{\"title\": \"消息\", \"content\": \"公告\"}', '2021-04-07 20:27:45', 0);
 INSERT INTO `board` VALUES (7, '{\"title\": \"消息\", \"content\": \"欢迎使用！😋\"}', '2021-05-08 01:06:32', 1);
 
