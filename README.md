@@ -137,7 +137,7 @@ minio.exe server 证书目录的绝对路径 MinIO网盘文件存储目录的绝
              "secretaccesskey":"MinIO账户密码。例：minioadmin"
          },
          "panconf":{
-             "miniopath":"MinIO网盘文件存储目录路径（包含存储桶名称）",
+             "miniopath":"MinIO网盘文件存储目录路径",
              "win_platform_copy":"移植到Win平台的Linux中的cp命令，例如Git for Windows中包含的cp程序",
              "win_platform_zip":["7zip的命令行版本。例：7z.exe", "a"],
              "sslcert":"公钥路径。例：cert/public.cer",
